@@ -2,6 +2,11 @@
 Collection of C64 programs and documentation for learning
 
 
+## Documentation and Resources
+- Pickled Light [C64 User's Guide and Programmer's Reference Guide](https://pickledlightprojects.com/documents/c64-guides/)
+- [Kick Assembler Guide](https://theweb.dk/KickAssembler/KickAssembler.pdf)
+
+
 ## Requirements
 
 ### [Java Development Kit](https://formulae.brew.sh/formula/openjdk)
