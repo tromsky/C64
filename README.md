@@ -71,15 +71,24 @@ Collection of C64 programs and documentation for learning
 - Drag `/snappyrom534/crt/snappyrom-5.34-ntsc.crt` to the vice instance
 - Super Snapshot should start up instantly
 
-![alt text](image.png)
+![Super Shnapshot menu](images/img-menu.png)
 
 - Hit the `F5` key (`fn-F5`) to launch Turbo Macro Pro
 - Write the program
+
+![Program within Turbo Macro Pro](images/img-program.png)
+
 - `shift-tilde` (`shift-~`) then `3` to assemble
     - `s` to start (drop back into basic)
     - call the program as above, e.g. `SYS 4096`
-- or, shift-tilde` (`shift-~`) then `3` to assemble
-    - `space` (or any key) to re-enter the editor
+- or, `shift-tilde` (`shift-~`) then `3` to assemble
+
+![Assembling within Turbo Macro Pro](images/img-assemble.png)
+
+- `space` (or any key) to re-enter the editor
     - then, `shift-tilde`, `1` to drop into basic
         - call as above, e.g. `SYS 4096`
+
+![Calling/running a program from the BASIC prompt](images/img-call.png)
+
 - `SYS 32768` to re-enter Turbo Macro Pro
